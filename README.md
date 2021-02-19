@@ -56,7 +56,11 @@ A Great Way To Make A Lot Of Coins By Answering Some Questions, Viewing Websites
 
 FaucetCrypto is extremely reputable and has specific proof of withdrawal And there are many pages about Bitcoin & Crypto Faucets talking about this page
 
-payment proof = > [my wallet](https://blockchair.com/litecoin/address/MHiLABvWctyn2jsKqxASw7cxFzZe43Qm6E)
+payment proof = > [my wallet](https://blockchair.com/litecoin/address/MHiLABvWctyn2jsKqxASw7cxFzZe43Qm6E) 
+
+* This is just my **litecoin** wallet, **you don't need** to know other wallets :)
+*  Because faucetcrypto has multiple methods of receiving payments :)
+*  I do not receive all my payments through litecoin
 
 # [**Register Now**](http://bit.ly/3s8qktb)
 
