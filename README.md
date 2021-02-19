@@ -1,6 +1,12 @@
 ### Guide to making money with the FaucetCrypto project
 
-updating..
+ * [What is FaucetCrypto ?!l](https://github.com/yuceltoluyag/faucetcrypto#what-is-faucetcrypto-)
+ * [So how does it work ? ?](https://github.com/yuceltoluyag/faucetcrypto#so-how-does-it-work-)
+   * [How to make money with FaucetCrypto](https://github.com/yuceltoluyag/faucetcrypto#how-to-make-money-with-faucetcrypto)
+   * [Wallet](https://github.com/yuceltoluyag/faucetcrypto#wallet)
+   * [Is FaucetCrypto really scam or not ?](https://github.com/yuceltoluyag/faucetcrypto#is-faucetcrypto-really-scam-or-not-)
+   * [# Faucet Crypto Bot](https://github.com/yuceltoluyag/faucetcrypto#faucet-crypto-bot)
+ * [Other Method(More Earn)](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin)
 
 # What is FaucetCrypto ?!
 **Faucetcrypto** is a cryptocurrency faucet program also known as a cryptocurrency crane. Crypto tap is a website where people can earn **FREE** cryptocurrencies through simple tasks like watching videos, sharing them, liking them, playing games or just doing some simple capturing images. . In this review, we will cover how the program works, member benefits, and their cryptocurrency faucet operations.
@@ -55,6 +61,10 @@ payment proof = > [my wallet](https://blockchair.com/litecoin/address/MHiLABvWct
 # [**Register Now**](http://bit.ly/3s8qktb)
 
 Share this link and earn 25% referral commission!
+
+# Wallet
+
+Which wallet do I use? https://bit.ly/2VbZa6N
 
 # Faucet Crypto Bot
 
