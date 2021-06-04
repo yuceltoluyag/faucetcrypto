@@ -76,6 +76,6 @@ Do you want to automate all these jobs?
 
  [B0T](https://github.com/yuceltoluyag/faucetcrypto/blob/main/faucetcryptoBot.md)
 
-https://t.me/EarnCoinPerDay
+https://t.me/earncoinper
 
 > A bot for the high paying popular cryptocurrency faucet Faucet Crypto. The bot is built using Python and Selenium, currently it is under active development and, can do tasks like PTC ads, main rewards, and shortlinks except exe io and fc lc
